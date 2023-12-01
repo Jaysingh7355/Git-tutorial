@@ -57,3 +57,7 @@ remote repo and give aname to it.
 19. 'git remote rename <olname> <newname>': this command renam the remote connection
 
 Note: The name of the remote connection is always use to estabilish comminication between the repositories 
+
+20. 'git add <file1> <file2> <file3>': this command will add  multipule files chenges togather in the staging area
+
+21. 'git add.': this command use to shift all the file from working area to staging area.
