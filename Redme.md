@@ -63,3 +63,13 @@ Note: The name of the remote connection is always use to estabilish comminicatio
 21. 'git add.': this command use to shift all the file from working area to staging area..
 
 21. 'git pull <remote name> <branch name>': download latest chenges from the branch of the mentioned remote in your local repo.
+
+### Recommended practice to do
+       
+
+             - make chenges
+             - git add<file>
+             - git commit
+             - git pull
+             - git push
+             
