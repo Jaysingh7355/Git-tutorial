@@ -43,3 +43,17 @@ just want the chenges to ove in working area or staging areathen we git restore.
 13 'git diff commit1 commit2' -> gives the diffreance of all files changes between two commits
 
 14 'git commit -m "<you commit manges>"'-> if we want to avoid opening atext editor like vim/nano to add  commit massage we can use the following command  
+
+15. 'git remorte' -> list down all the remote connection names
+
+16. 'remote connection' -> it helps to link to git repositories for uploding and download
+chenches from each otherwise.
+
+17. 'git remote add <name of remote> <link of remote>':this command healps us to a new link to
+remote repo and give aname to it.
+
+18. 'git remote rm <name of remote>': this command delete a remote connection
+
+19. 'git remote rename <olname> <newname>': this command renam the remote connection
+
+Note: The name of the remote connection is always use to estabilish comminication between the repositories
