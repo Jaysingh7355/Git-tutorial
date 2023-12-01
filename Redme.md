@@ -56,4 +56,4 @@ remote repo and give aname to it.
 
 19. 'git remote rename <olname> <newname>': this command renam the remote connection
 
-Note: The name of the remote connection is always use to estabilish comminication between the repositories
+Note: The name of the remote connection is always use to estabilish comminication between the repositories 
