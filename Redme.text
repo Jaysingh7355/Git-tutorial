@@ -35,3 +35,7 @@
 
 11. 'git restore --staged <file>' -> it removes file from staging  area to the working area.
 this only works if changes are in your staging area
+
+12.diffreance between git rm and git restore 
+ans:if you want to move the hole file back to the untractted state , then we do git rm , other wise if we 
+just want the chenges to ove in working area or staging areathen we git restore.
