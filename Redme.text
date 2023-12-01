@@ -42,4 +42,4 @@ just want the chenges to ove in working area or staging areathen we git restore.
 
 13 'git diff commit1 commit2' -> gives the diffreance of all files changes between two commits
 
-14 'git commit'-> if we want to avoid opening atext editor like vim/nano to add  commit massage we can use the following command  
+14 'git commit -m "<you commit manges>"'-> if we want to avoid opening atext editor like vim/nano to add  commit massage we can use the following command  
